@@ -10,7 +10,7 @@
                 "-ExecutionPolicy",
                 "Bypass",
                 "-File",
-                "${workspaceFolder}/scripts/list-stlink-serials.ps1"
+                "${workspaceFolder}/.vscode/list-stlink-serials.ps1"
             ],
             "problemMatcher": [],
             "group": "none",
